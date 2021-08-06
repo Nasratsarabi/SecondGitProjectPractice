@@ -1,10 +1,9 @@
 package FromNasratSarabi;
 
-public class NasratSarabi {
+public class Nasratullah {
     public static void main(String[] args) {
 
-        char n = 'F';
-        float b = 5;
+        // practice
 
     }
 }
