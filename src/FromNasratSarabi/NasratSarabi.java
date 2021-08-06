@@ -6,5 +6,7 @@ public class NasratSarabi {
         char n = 'F';
         float b = 5;
 
+        String city = "Sand Diego";
+
     }
 }
